@@ -108,7 +108,7 @@ void notifiaction() {
 
 void logoConsole(void) {
   Serial.printf("Nhóm 24\n");
-  Serial.printf("Ninh Chí Hướng\n");
-  Serial.printf("Nguyễn Văn Khang\n");
+  Serial.printf("Ninh Chí Hướng - B20DCAT094\n");
+  Serial.printf("Nguyễn Văn Khang - B20DCAT102\n");
 
 }
