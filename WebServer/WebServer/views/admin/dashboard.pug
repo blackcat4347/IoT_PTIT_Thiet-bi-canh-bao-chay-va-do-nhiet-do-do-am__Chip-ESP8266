@@ -1,0 +1,58 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    script(src='https://kit.fontawesome.com/64d58efce2.js', crossorigin='anonymous')
+    title Weather Forecast App
+    link(rel='stylesheet', href='/admin/CSS/style.css')
+    script(src='https://cdn.plot.ly/plotly-latest.min.js')
+  body
+    .wrapper
+      .sidebar
+        div
+          .group
+            b Nh&oacute;m 5
+          div
+            .dashboard
+              div(style='margin-top: 200px; text-align: center')
+                button.btn-khigas(style='\
+                font-size: 20px;\
+                background-color: #caf0f8;\
+                border: none;\
+                cursor: pointer;\
+                ')
+                  b C&#x1EA3;m bi&#x1EBF;n kh&iacute; gas
+              div(style='margin-top: 20px; margin-bottom: 20px; text-align: center')
+                button.btn-nhietdo(style='\
+                font-size: 20px;\
+                border: none;\
+                background-color: #caf0f8;\
+                border: none;\
+                cursor: pointer;\
+                ')
+                  b C&#x1EA3;m bi&#x1EBF;n nhi&#x1EC7;t &dstrok;&#x1ED9;
+              div(style='text-align: center')
+                button.btn-doam(style='\
+                font-size: 20px;\
+                background-color: #caf0f8;\
+                border: none;\
+                cursor: pointer;\
+                ')
+                  b C&#x1EA3;m bi&#x1EBF;n &dstrok;&#x1ED9; &#x1EA9;m
+          .weather-icon
+            img#icon(src='icons/sun/4.png', alt='')
+        .location
+          .location-icon
+            i.fas.fa-map-marker-alt
+          .location-text
+            p#location H&agrave; N&#x1ED9;i
+      .main
+        #weather-cards.cards
+        .highlights
+          .cards
+            .card1.box-1
+              #myDiv(style='width: 100%; height: 100%')
+    script(src='/admin/js/btn.js')
+    script(src='/admin/js/saveDataFromThinkSpeak.js')

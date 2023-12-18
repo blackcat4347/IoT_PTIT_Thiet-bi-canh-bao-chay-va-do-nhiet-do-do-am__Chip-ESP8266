@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../ReactTest"
+		},
+		{
+			"path": "../NodeJSPractice"
+		},
+		{
+			"path": "../WebApp/WebApp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../thoitiet-main"
+		},
+		{
+			"path": "../Image_Preprocessing"
+		},
+		{
+			"path": "../Users/Tran Minh Nghia/Documents/Zalo Received Files/Code/Code"
+		},
+		{
+			"path": "../Xu ly anh/Image_Preprocessing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ReactTest"
+	}
+}

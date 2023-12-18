@@ -1,0 +1,1151 @@
+{
+  "khigas": [
+    {
+      "timestamp": 1701655499,
+      "created_at": "2023-12-04T09:04:59.000Z",
+      "khigas": 127
+    },
+    {
+      "timestamp": 1701655563,
+      "created_at": "2023-12-04T09:06:03.000Z",
+      "khigas": 90
+    },
+    {
+      "timestamp": 1701655594,
+      "created_at": "2023-12-04T09:06:34.000Z",
+      "khigas": 103
+    },
+    {
+      "timestamp": 1701655626,
+      "created_at": "2023-12-04T09:07:06.000Z",
+      "khigas": 217
+    },
+    {
+      "timestamp": 1701655674,
+      "created_at": "2023-12-04T09:07:54.000Z",
+      "khigas": 136
+    },
+    {
+      "timestamp": 1701655721,
+      "created_at": "2023-12-04T09:08:41.000Z",
+      "khigas": 105
+    },
+    {
+      "timestamp": 1701655753,
+      "created_at": "2023-12-04T09:09:13.000Z",
+      "khigas": 134
+    },
+    {
+      "timestamp": 1701655771,
+      "created_at": "2023-12-04T09:09:31.000Z",
+      "khigas": 138
+    },
+    {
+      "timestamp": 1701655805,
+      "created_at": "2023-12-04T09:10:05.000Z",
+      "khigas": 127
+    },
+    {
+      "timestamp": 1701655824,
+      "created_at": "2023-12-04T09:10:24.000Z",
+      "khigas": 123
+    },
+    {
+      "timestamp": 1701655877,
+      "created_at": "2023-12-04T09:11:17.000Z",
+      "khigas": 114
+    },
+    {
+      "timestamp": 1701655917,
+      "created_at": "2023-12-04T09:11:57.000Z",
+      "khigas": 109
+    },
+    {
+      "timestamp": 1701655990,
+      "created_at": "2023-12-04T09:13:10.000Z",
+      "khigas": 112
+    },
+    {
+      "timestamp": 1701656022,
+      "created_at": "2023-12-04T09:13:42.000Z",
+      "khigas": 108
+    },
+    {
+      "timestamp": 1701656057,
+      "created_at": "2023-12-04T09:14:17.000Z",
+      "khigas": 103
+    },
+    {
+      "timestamp": 1701656074,
+      "created_at": "2023-12-04T09:14:34.000Z",
+      "khigas": 103
+    },
+    {
+      "timestamp": 1701656120,
+      "created_at": "2023-12-04T09:15:20.000Z",
+      "khigas": 72
+    },
+    {
+      "timestamp": 1701656156,
+      "created_at": "2023-12-04T09:15:56.000Z",
+      "khigas": 100
+    },
+    {
+      "timestamp": 1701656221,
+      "created_at": "2023-12-04T09:17:01.000Z",
+      "khigas": 150
+    },
+    {
+      "timestamp": 1701656292,
+      "created_at": "2023-12-04T09:18:12.000Z",
+      "khigas": 120
+    },
+    {
+      "timestamp": 1701656382,
+      "created_at": "2023-12-04T09:19:42.000Z",
+      "khigas": 106
+    },
+    {
+      "timestamp": 1701656400,
+      "created_at": "2023-12-04T09:20:00.000Z",
+      "khigas": 104
+    },
+    {
+      "timestamp": 1701656478,
+      "created_at": "2023-12-04T09:21:18.000Z",
+      "khigas": 105
+    },
+    {
+      "timestamp": 1701656509,
+      "created_at": "2023-12-04T09:21:49.000Z",
+      "khigas": 98
+    },
+    {
+      "timestamp": 1701656546,
+      "created_at": "2023-12-04T09:22:26.000Z",
+      "khigas": 97
+    },
+    {
+      "timestamp": 1701656562,
+      "created_at": "2023-12-04T09:22:42.000Z",
+      "khigas": 96
+    },
+    {
+      "timestamp": 1701656596,
+      "created_at": "2023-12-04T09:23:16.000Z",
+      "khigas": 94
+    },
+    {
+      "timestamp": 1701656729,
+      "created_at": "2023-12-04T09:25:29.000Z",
+      "khigas": 90
+    },
+    {
+      "timestamp": 1701656766,
+      "created_at": "2023-12-04T09:26:06.000Z",
+      "khigas": 90
+    },
+    {
+      "timestamp": 1701656894,
+      "created_at": "2023-12-04T09:28:14.000Z",
+      "khigas": 163
+    },
+    {
+      "timestamp": 1701656914,
+      "created_at": "2023-12-04T09:28:34.000Z",
+      "khigas": 149
+    },
+    {
+      "timestamp": 1701656980,
+      "created_at": "2023-12-04T09:29:40.000Z",
+      "khigas": 116
+    },
+    {
+      "timestamp": 1701656996,
+      "created_at": "2023-12-04T09:29:56.000Z",
+      "khigas": 114
+    },
+    {
+      "timestamp": 1701657050,
+      "created_at": "2023-12-04T09:30:50.000Z",
+      "khigas": 105
+    },
+    {
+      "timestamp": 1701657157,
+      "created_at": "2023-12-04T09:32:37.000Z",
+      "khigas": 97
+    },
+    {
+      "timestamp": 1701657229,
+      "created_at": "2023-12-04T09:33:49.000Z",
+      "khigas": 261
+    },
+    {
+      "timestamp": 1701657300,
+      "created_at": "2023-12-04T09:35:00.000Z",
+      "khigas": 172
+    },
+    {
+      "timestamp": 1701657315,
+      "created_at": "2023-12-04T09:35:15.000Z",
+      "khigas": 166
+    },
+    {
+      "timestamp": 1701657332,
+      "created_at": "2023-12-04T09:35:32.000Z",
+      "khigas": 157
+    },
+    {
+      "timestamp": 1701657349,
+      "created_at": "2023-12-04T09:35:49.000Z",
+      "khigas": 149
+    },
+    {
+      "timestamp": 1701657382,
+      "created_at": "2023-12-04T09:36:22.000Z",
+      "khigas": 137
+    },
+    {
+      "timestamp": 1701657418,
+      "created_at": "2023-12-04T09:36:58.000Z",
+      "khigas": 128
+    },
+    {
+      "timestamp": 1701657872,
+      "created_at": "2023-12-04T09:44:32.000Z",
+      "khigas": 142
+    },
+    {
+      "timestamp": 1701658111,
+      "created_at": "2023-12-04T09:48:31.000Z",
+      "khigas": 226
+    },
+    {
+      "timestamp": 1701658150,
+      "created_at": "2023-12-04T09:49:10.000Z",
+      "khigas": 200
+    },
+    {
+      "timestamp": 1701658165,
+      "created_at": "2023-12-04T09:49:25.000Z",
+      "khigas": 302
+    },
+    {
+      "timestamp": 1701658199,
+      "created_at": "2023-12-04T09:49:59.000Z",
+      "khigas": 218
+    },
+    {
+      "timestamp": 1701658248,
+      "created_at": "2023-12-04T09:50:48.000Z",
+      "khigas": 175
+    },
+    {
+      "timestamp": 1701658264,
+      "created_at": "2023-12-04T09:51:04.000Z",
+      "khigas": 170
+    },
+    {
+      "timestamp": 1701658312,
+      "created_at": "2023-12-04T09:51:52.000Z",
+      "khigas": 153
+    },
+    {
+      "timestamp": 1701658397,
+      "created_at": "2023-12-04T09:53:17.000Z",
+      "khigas": 142
+    },
+    {
+      "timestamp": 1701658436,
+      "created_at": "2023-12-04T09:53:56.000Z",
+      "khigas": 134
+    },
+    {
+      "timestamp": 1701658486,
+      "created_at": "2023-12-04T09:54:46.000Z",
+      "khigas": 161
+    },
+    {
+      "timestamp": 1701658545,
+      "created_at": "2023-12-04T09:55:45.000Z",
+      "khigas": 134
+    },
+    {
+      "timestamp": 1701658600,
+      "created_at": "2023-12-04T09:56:40.000Z",
+      "khigas": 124
+    },
+    {
+      "timestamp": 1701658618,
+      "created_at": "2023-12-04T09:56:58.000Z",
+      "khigas": 122
+    },
+    {
+      "timestamp": 1701658638,
+      "created_at": "2023-12-04T09:57:18.000Z",
+      "khigas": 118
+    },
+    {
+      "timestamp": 1701658709,
+      "created_at": "2023-12-04T09:58:29.000Z",
+      "khigas": 117
+    },
+    {
+      "timestamp": 1701658756,
+      "created_at": "2023-12-04T09:59:16.000Z",
+      "khigas": 108
+    },
+    {
+      "timestamp": 1701658811,
+      "created_at": "2023-12-04T10:00:11.000Z",
+      "khigas": 112
+    },
+    {
+      "timestamp": 1701658828,
+      "created_at": "2023-12-04T10:00:28.000Z",
+      "khigas": 104
+    },
+    {
+      "timestamp": 1701658919,
+      "created_at": "2023-12-04T10:01:59.000Z",
+      "khigas": 126
+    },
+    {
+      "timestamp": 1701658987,
+      "created_at": "2023-12-04T10:03:07.000Z",
+      "khigas": 113
+    },
+    {
+      "timestamp": 1701659008,
+      "created_at": "2023-12-04T10:03:28.000Z",
+      "khigas": 110
+    },
+    {
+      "timestamp": 1701659070,
+      "created_at": "2023-12-04T10:04:30.000Z",
+      "khigas": 104
+    },
+    {
+      "timestamp": 1701659105,
+      "created_at": "2023-12-04T10:05:05.000Z",
+      "khigas": 109
+    },
+    {
+      "timestamp": 1701659121,
+      "created_at": "2023-12-04T10:05:21.000Z",
+      "khigas": 100
+    },
+    {
+      "timestamp": 1701659139,
+      "created_at": "2023-12-04T10:05:39.000Z",
+      "khigas": 100
+    },
+    {
+      "timestamp": 1701659247,
+      "created_at": "2023-12-04T10:07:27.000Z",
+      "khigas": 102
+    },
+    {
+      "timestamp": 1701659262,
+      "created_at": "2023-12-04T10:07:42.000Z",
+      "khigas": 96
+    },
+    {
+      "timestamp": 1701659352,
+      "created_at": "2023-12-04T10:09:12.000Z",
+      "khigas": 91
+    },
+    {
+      "timestamp": 1701659373,
+      "created_at": "2023-12-04T10:09:33.000Z",
+      "khigas": 92
+    },
+    {
+      "timestamp": 1701659391,
+      "created_at": "2023-12-04T10:09:51.000Z",
+      "khigas": 90
+    },
+    {
+      "timestamp": 1701659587,
+      "created_at": "2023-12-04T10:13:07.000Z",
+      "khigas": 88
+    },
+    {
+      "timestamp": 1701659624,
+      "created_at": "2023-12-04T10:13:44.000Z",
+      "khigas": 94
+    },
+    {
+      "timestamp": 1701659655,
+      "created_at": "2023-12-04T10:14:15.000Z",
+      "khigas": 87
+    },
+    {
+      "timestamp": 1701659709,
+      "created_at": "2023-12-04T10:15:09.000Z",
+      "khigas": 87
+    },
+    {
+      "timestamp": 1701659737,
+      "created_at": "2023-12-04T10:15:37.000Z",
+      "khigas": 86
+    },
+    {
+      "timestamp": 1701659807,
+      "created_at": "2023-12-04T10:16:47.000Z",
+      "khigas": 86
+    },
+    {
+      "timestamp": 1701659844,
+      "created_at": "2023-12-04T10:17:24.000Z",
+      "khigas": 161
+    },
+    {
+      "timestamp": 1701659874,
+      "created_at": "2023-12-04T10:17:54.000Z",
+      "khigas": 133
+    },
+    {
+      "timestamp": 1701659923,
+      "created_at": "2023-12-04T10:18:43.000Z",
+      "khigas": 114
+    },
+    {
+      "timestamp": 1701660047,
+      "created_at": "2023-12-04T10:20:47.000Z",
+      "khigas": 151
+    },
+    {
+      "timestamp": 1701660095,
+      "created_at": "2023-12-04T10:21:35.000Z",
+      "khigas": 128
+    },
+    {
+      "timestamp": 1701660110,
+      "created_at": "2023-12-04T10:21:50.000Z",
+      "khigas": 124
+    },
+    {
+      "timestamp": 1701660126,
+      "created_at": "2023-12-04T10:22:06.000Z",
+      "khigas": 121
+    },
+    {
+      "timestamp": 1701660163,
+      "created_at": "2023-12-04T10:22:43.000Z",
+      "khigas": 114
+    },
+    {
+      "timestamp": 1701660180,
+      "created_at": "2023-12-04T10:23:00.000Z",
+      "khigas": 110
+    },
+    {
+      "timestamp": 1701660198,
+      "created_at": "2023-12-04T10:23:18.000Z",
+      "khigas": 108
+    }
+  ],
+  "nhietdo": [
+    {
+      "timestamp": 1701655514,
+      "created_at": "2023-12-04T09:05:14.000Z",
+      "nhietdo": 24.8
+    },
+    {
+      "timestamp": 1701655547,
+      "created_at": "2023-12-04T09:05:47.000Z",
+      "nhietdo": 24.8
+    },
+    {
+      "timestamp": 1701655658,
+      "created_at": "2023-12-04T09:07:38.000Z",
+      "nhietdo": 24.8
+    },
+    {
+      "timestamp": 1701655706,
+      "created_at": "2023-12-04T09:08:26.000Z",
+      "nhietdo": 24.9
+    },
+    {
+      "timestamp": 1701655737,
+      "created_at": "2023-12-04T09:08:57.000Z",
+      "nhietdo": 24.9
+    },
+    {
+      "timestamp": 1701655786,
+      "created_at": "2023-12-04T09:09:46.000Z",
+      "nhietdo": 24.8
+    },
+    {
+      "timestamp": 1701655839,
+      "created_at": "2023-12-04T09:10:39.000Z",
+      "nhietdo": 24.9
+    },
+    {
+      "timestamp": 1701655900,
+      "created_at": "2023-12-04T09:11:40.000Z",
+      "nhietdo": 24.8
+    },
+    {
+      "timestamp": 1701656005,
+      "created_at": "2023-12-04T09:13:25.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656039,
+      "created_at": "2023-12-04T09:13:59.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656091,
+      "created_at": "2023-12-04T09:14:51.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656173,
+      "created_at": "2023-12-04T09:16:13.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656189,
+      "created_at": "2023-12-04T09:16:29.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656205,
+      "created_at": "2023-12-04T09:16:45.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656237,
+      "created_at": "2023-12-04T09:17:17.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656312,
+      "created_at": "2023-12-04T09:18:32.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656358,
+      "created_at": "2023-12-04T09:19:18.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656457,
+      "created_at": "2023-12-04T09:20:57.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656528,
+      "created_at": "2023-12-04T09:22:08.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656614,
+      "created_at": "2023-12-04T09:23:34.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656649,
+      "created_at": "2023-12-04T09:24:09.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656671,
+      "created_at": "2023-12-04T09:24:31.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656686,
+      "created_at": "2023-12-04T09:24:46.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701656782,
+      "created_at": "2023-12-04T09:26:22.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701656805,
+      "created_at": "2023-12-04T09:26:45.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701656823,
+      "created_at": "2023-12-04T09:27:03.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701657246,
+      "created_at": "2023-12-04T09:34:06.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701657398,
+      "created_at": "2023-12-04T09:36:38.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701657888,
+      "created_at": "2023-12-04T09:44:48.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701658232,
+      "created_at": "2023-12-04T09:50:32.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701658281,
+      "created_at": "2023-12-04T09:51:21.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701658296,
+      "created_at": "2023-12-04T09:51:36.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701658345,
+      "created_at": "2023-12-04T09:52:25.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701658364,
+      "created_at": "2023-12-04T09:52:44.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701658380,
+      "created_at": "2023-12-04T09:53:00.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658414,
+      "created_at": "2023-12-04T09:53:34.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658453,
+      "created_at": "2023-12-04T09:54:13.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658469,
+      "created_at": "2023-12-04T09:54:29.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658507,
+      "created_at": "2023-12-04T09:55:07.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658564,
+      "created_at": "2023-12-04T09:56:04.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658655,
+      "created_at": "2023-12-04T09:57:35.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658689,
+      "created_at": "2023-12-04T09:58:09.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658725,
+      "created_at": "2023-12-04T09:58:45.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658740,
+      "created_at": "2023-12-04T09:59:00.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658794,
+      "created_at": "2023-12-04T09:59:54.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658864,
+      "created_at": "2023-12-04T10:01:04.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658883,
+      "created_at": "2023-12-04T10:01:23.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658902,
+      "created_at": "2023-12-04T10:01:42.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658935,
+      "created_at": "2023-12-04T10:02:15.000Z",
+      "nhietdo": 26.2
+    },
+    {
+      "timestamp": 1701658970,
+      "created_at": "2023-12-04T10:02:50.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659089,
+      "created_at": "2023-12-04T10:04:49.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659172,
+      "created_at": "2023-12-04T10:06:12.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659211,
+      "created_at": "2023-12-04T10:06:51.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659316,
+      "created_at": "2023-12-04T10:08:36.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659334,
+      "created_at": "2023-12-04T10:08:54.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659436,
+      "created_at": "2023-12-04T10:10:36.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659485,
+      "created_at": "2023-12-04T10:11:25.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659538,
+      "created_at": "2023-12-04T10:12:18.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659555,
+      "created_at": "2023-12-04T10:12:35.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659571,
+      "created_at": "2023-12-04T10:12:51.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659689,
+      "created_at": "2023-12-04T10:14:49.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659753,
+      "created_at": "2023-12-04T10:15:53.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659785,
+      "created_at": "2023-12-04T10:16:25.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659947,
+      "created_at": "2023-12-04T10:19:07.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659963,
+      "created_at": "2023-12-04T10:19:23.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701659979,
+      "created_at": "2023-12-04T10:19:39.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701660028,
+      "created_at": "2023-12-04T10:20:28.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701660063,
+      "created_at": "2023-12-04T10:21:03.000Z",
+      "nhietdo": 25.8
+    },
+    {
+      "timestamp": 1701660147,
+      "created_at": "2023-12-04T10:22:27.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701660231,
+      "created_at": "2023-12-04T10:23:51.000Z",
+      "nhietdo": 25.3
+    },
+    {
+      "timestamp": 1701660248,
+      "created_at": "2023-12-04T10:24:08.000Z",
+      "nhietdo": 25.3
+    }
+  ],
+  "doam": [
+    {
+      "timestamp": 1701655530,
+      "created_at": "2023-12-04T09:05:30.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701655610,
+      "created_at": "2023-12-04T09:06:50.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701655642,
+      "created_at": "2023-12-04T09:07:22.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701655690,
+      "created_at": "2023-12-04T09:08:10.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701655862,
+      "created_at": "2023-12-04T09:11:02.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701655934,
+      "created_at": "2023-12-04T09:12:14.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656252,
+      "created_at": "2023-12-04T09:17:32.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656273,
+      "created_at": "2023-12-04T09:17:53.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656339,
+      "created_at": "2023-12-04T09:18:59.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656415,
+      "created_at": "2023-12-04T09:20:15.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656433,
+      "created_at": "2023-12-04T09:20:33.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656494,
+      "created_at": "2023-12-04T09:21:34.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656577,
+      "created_at": "2023-12-04T09:22:57.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656630,
+      "created_at": "2023-12-04T09:23:50.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656712,
+      "created_at": "2023-12-04T09:25:12.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656751,
+      "created_at": "2023-12-04T09:25:51.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656838,
+      "created_at": "2023-12-04T09:27:18.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656854,
+      "created_at": "2023-12-04T09:27:34.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701656872,
+      "created_at": "2023-12-04T09:27:52.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656940,
+      "created_at": "2023-12-04T09:29:00.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701656962,
+      "created_at": "2023-12-04T09:29:22.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657013,
+      "created_at": "2023-12-04T09:30:13.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657028,
+      "created_at": "2023-12-04T09:30:28.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657068,
+      "created_at": "2023-12-04T09:31:08.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657083,
+      "created_at": "2023-12-04T09:31:23.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657099,
+      "created_at": "2023-12-04T09:31:39.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657122,
+      "created_at": "2023-12-04T09:32:02.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657141,
+      "created_at": "2023-12-04T09:32:21.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657178,
+      "created_at": "2023-12-04T09:32:58.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657195,
+      "created_at": "2023-12-04T09:33:15.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657211,
+      "created_at": "2023-12-04T09:33:31.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701657267,
+      "created_at": "2023-12-04T09:34:27.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657284,
+      "created_at": "2023-12-04T09:34:44.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701657366,
+      "created_at": "2023-12-04T09:36:06.000Z",
+      "doam": 76
+    },
+    {
+      "timestamp": 1701658183,
+      "created_at": "2023-12-04T09:49:43.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701658215,
+      "created_at": "2023-12-04T09:50:15.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701658328,
+      "created_at": "2023-12-04T09:52:08.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701658529,
+      "created_at": "2023-12-04T09:55:29.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701658583,
+      "created_at": "2023-12-04T09:56:23.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701658672,
+      "created_at": "2023-12-04T09:57:52.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701658772,
+      "created_at": "2023-12-04T09:59:32.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701658843,
+      "created_at": "2023-12-04T10:00:43.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701658952,
+      "created_at": "2023-12-04T10:02:32.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701659033,
+      "created_at": "2023-12-04T10:03:53.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701659051,
+      "created_at": "2023-12-04T10:04:11.000Z",
+      "doam": 77
+    },
+    {
+      "timestamp": 1701659156,
+      "created_at": "2023-12-04T10:05:56.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701659187,
+      "created_at": "2023-12-04T10:06:27.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659230,
+      "created_at": "2023-12-04T10:07:10.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701659278,
+      "created_at": "2023-12-04T10:07:58.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659296,
+      "created_at": "2023-12-04T10:08:16.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659414,
+      "created_at": "2023-12-04T10:10:14.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701659453,
+      "created_at": "2023-12-04T10:10:53.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701659468,
+      "created_at": "2023-12-04T10:11:08.000Z",
+      "doam": 78
+    },
+    {
+      "timestamp": 1701659501,
+      "created_at": "2023-12-04T10:11:41.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659523,
+      "created_at": "2023-12-04T10:12:03.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659608,
+      "created_at": "2023-12-04T10:13:28.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701659639,
+      "created_at": "2023-12-04T10:13:59.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701659674,
+      "created_at": "2023-12-04T10:14:34.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701659770,
+      "created_at": "2023-12-04T10:16:10.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701659826,
+      "created_at": "2023-12-04T10:17:06.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701659859,
+      "created_at": "2023-12-04T10:17:39.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701659891,
+      "created_at": "2023-12-04T10:18:11.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701659907,
+      "created_at": "2023-12-04T10:18:27.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701659995,
+      "created_at": "2023-12-04T10:19:55.000Z",
+      "doam": 80
+    },
+    {
+      "timestamp": 1701660013,
+      "created_at": "2023-12-04T10:20:13.000Z",
+      "doam": 81
+    },
+    {
+      "timestamp": 1701660079,
+      "created_at": "2023-12-04T10:21:19.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701660215,
+      "created_at": "2023-12-04T10:23:35.000Z",
+      "doam": 79
+    },
+    {
+      "timestamp": 1701660267,
+      "created_at": "2023-12-04T10:24:27.000Z",
+      "doam": 79
+    }
+  ],
+  "dudoankhigas": [],
+  "dudoannhietdo": [],
+  "dudoandoam": []
+}

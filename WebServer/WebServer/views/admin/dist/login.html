@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #ade8f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    }
+    .login-container {
+    width: 300px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 360px;
+    height: 300px;
+    }
+    h2 {
+    text-align: center;
+    color: #333;
+    }
+    form {
+    display: flex;
+    flex-direction: column;
+    }
+    input[type="text"],
+    input[type="password"] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    }
+    input[type="submit"] {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5c8a8a;
+    color: white;
+    cursor: pointer;
+    }
+    input[type="submit"]:hover {
+    background-color: #466d6d;
+    }
+  </style>
+</head>
+<div class="login-container">
+  <h2>Login</h2>
+  <form style="margin-top: 20px;" action="http://localhost:3001/admin/dashboard" method="get">
+    <input style="margin-top: 20px;" type="text" name="username" placeholder="Username" required="">
+    <input style="margin-top: 20px;" type="password" name="password" placeholder="Password" required="">
+    <input style="margin-top: 20px;" type="submit" value="Login">
+  </form>
+</div>
