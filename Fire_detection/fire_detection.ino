@@ -29,8 +29,8 @@ const char* password  = "37khuongtrung";
 WiFiClient client;
 
 //ThingSpeakSetting
-const int channelID		= 2271250;// Enter Channel ID ;
-String writeAPIKey		= "HO4578RCJIPGJH7D";
+const int channelID		= 2384835;// Enter Channel ID ;
+String writeAPIKey		= "QT34XZF2S47U42YX";
 const char* server		= "api.thingspeak.com";
 
 //FunctionDeclare
