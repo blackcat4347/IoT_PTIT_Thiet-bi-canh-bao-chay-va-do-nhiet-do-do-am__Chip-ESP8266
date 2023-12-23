@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script
+    src="https://kit.fontawesome.com/64d58efce2.js"
+    crossorigin="anonymous"
+  ></script>
+  <title></title>
+  <link rel="stylesheet" href="/public/admin/CSS/style.css" />
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="sidebar">
+      <div>
+        <div class="group"><b>Nh&oacute;m 5</b></div>
+        <div>
+          <div class="dashboard">
+            <div style="margin-top: 200px; text-align: center">
+              <button
+                class="btn-khigas"
+                style="
+                  font-size: 20px;
+                  background-color: #caf0f8;
+                  border: none;
+                  cursor: pointer;
+                "
+              >
+                <b>Cảm biến khí gas</b>
+              </button>
+            </div>
+            <div
+              style="margin-top: 20px; margin-bottom: 20px; text-align: center"
+            >
+              <button
+                class="btn-nhietdo"
+                style="
+                  font-size: 20px;
+                  border: none;
+                  background-color: #caf0f8;
+                  border: none;
+                  cursor: pointer;
+                "
+              >
+                <b>Cảm biến nhiệt độ</b>
+              </button>
+            </div>
+            <div style="text-align: center">
+              <button
+                class="btn-doam"
+                style="
+                  font-size: 20px;
+                  background-color: #caf0f8;
+                  border: none;
+                  cursor: pointer;
+                "
+              >
+                <b>Cảm biến độ ẩm</b>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="weather-icon">
+          <img id="icon" src="icons/sun/4.png" alt="" />
+        </div>
+      </div>
+      <div class="location">
+        <div class="location-icon"><i class="fas fa-map-marker-alt"></i></div>
+        <div class="location-text">
+          <p id="location">H&agrave; N&#x1ED9;i</p>
+        </div>
+      </div>
+    </div>
+    <div class="main">
+      <div class="cards" id="weather-cards"></div>
+      <div class="highlights">
+        <div class="heading">
+          Bi&#x1EC3;u &dstrok;&#x1ED3; c&#x1EA3;m bi&#x1EBF;n
+        </div>
+        <div class="cards">
+          <div class="card1 box-1">
+            <div id="myDiv" style="width: 100%; height: 100%"></div>
+          </div>
+        </div>
+      </div>
+      <div class="">
+        <button class="btn-DuDoanDoAm">Dự đoán độ ẩm</button>
+        <div class="print-duDoanDoAm"></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    const btn_KhiGas = document.querySelector(".btn-khigas");
+    const btn_NhietDo = document.querySelector(".btn-nhietdo");
+    const btn_DoAm = document.querySelector(".btn-doam");
+    const btn_DuDoanDoAm = document.querySelector(".btn-DuDoanDoAm");
+
+    btn_KhiGas.addEventListener("click", (event) => {
+      window.location.href =
+        "http://localhost:3001/admin/dashboard/cambienkhigas";
+    });
+
+    btn_NhietDo.addEventListener("click", (event) => {
+      window.location.href =
+        "http://localhost:3001/admin/dashboard/cambiennhietdo";
+    });
+
+    btn_DoAm.addEventListener("click", (event) => {
+      window.location.href =
+        "http://localhost:3001/admin/dashboard/cambiendoam";
+    });
+    
+    btn_DuDoanDoAm.addEventListener("click", () => {
+      window.location.href = "http://localhost:3001/admin/dashboard/dudoandoam";
+    });
+  </script>
+
+  <script>
+    // Gửi yêu cầu GET đến địa chỉ 'http://localhost:3000/doam'
+    fetch("http://localhost:3000/dudoandoam")
+      .then((response) => response.json()) // Chuyển đổi phản hồi thành đối tượng JSON
+      .then((data) => {
+        const feeds = data;
+
+        // Chọn phần tử div để hiển thị dữ liệu
+        const displayDiv = document.querySelector(".print-duDoanDoAm");
+
+        // Khởi tạo một chuỗi rỗng để chứa mã HTML
+        let htmlContent = "";
+
+        // Lặp qua mảng feeds để tạo nội dung HTML
+        feeds.forEach((feed) => {
+          // Tạo một chuỗi cho mục cụ thể trong feeds
+          // Sửa mẫu này để bao gồm dữ liệu bạn muốn hiển thị
+          htmlContent += `<div>
+                        <span>Thời gian dự đoán: ${feed.timestamp}--</span>
+                        <span>Nhiệt độ: ${feed.doam}</span> <!-- Thay 'nhietdo' bằng tên thuộc tính thực tế nếu khác -->
+                      </div>`;
+        });
+
+        // Đặt nội dung HTML của displayDiv thành chuỗi htmlContent
+        displayDiv.innerHTML = htmlContent;
+      })
+      .catch((error) => console.error("Lỗi:", error)); // Bắt và hiển thị lỗi nếu có
+  </script>
+
+  <script>
+    function getData() {
+      fetch("http://localhost:3000/doam")
+        .then((response) => response.json())
+        .then((data) => {
+          const feeds = data;
+          console.log(feeds);
+          // Lọc ra các mục cụ thể có dữ liệu khiGas
+
+          const dates = feeds.map((feed) => feed.created_at);
+          const DoAmValues = feeds.map((feed) => Number(feed.doam));
+
+          const trace1 = {
+            x: dates,
+            y: DoAmValues,
+            type: "scatter",
+            mode: "lines+markers", // Sử dụng chế độ này để vẽ cả đường và điểm
+            marker: {
+              color: "blue",
+              size: 8,
+            },
+            line: {
+              color: "blue",
+              width: 2,
+            },
+          };
+
+          const dataPlotly = [trace1];
+
+          const layout = {
+            title: "Biểu Đồ Độ Ẩm",
+            xaxis: {
+              title: "Thời Gian",
+            },
+            yaxis: {
+              title: "Độ ẩm",
+            },
+            showlegend: false,
+          };
+
+          Plotly.newPlot("myDiv", dataPlotly, layout);
+        })
+        .catch((error) => console.error("Lỗi:", error));
+    }
+
+    getData();
+    // Gọi lại hàm getData sau mỗi giây
+    setInterval(getData, 5000);
+  </script>
+</body>

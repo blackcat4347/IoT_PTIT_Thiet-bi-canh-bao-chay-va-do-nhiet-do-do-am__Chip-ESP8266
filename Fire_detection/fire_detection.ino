@@ -7,6 +7,7 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 #include "DHT.h"
+#include "ThingSpeak.h"
 
 #define Buzzer D5 
 #define Sensor D7
@@ -20,7 +21,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 float humi; 
 float temp;
-
+int fire = 0;
 
 //WiFiSetting
 const char* ssid      = "Tang 3";
@@ -29,15 +30,15 @@ const char* password  = "37khuongtrung";
 WiFiClient client;
 
 //ThingSpeakSetting
-const int channelID		= 2384835;// Enter Channel ID ;
-String writeAPIKey		= "QT34XZF2S47U42YX";
+const int channelID		= 2384827;// Enter Channel ID ;
+String writeAPIKey		= "PCGSX1024GXGFYA2";
 const char* server		= "api.thingspeak.com";
 
 //FunctionDeclare
 void    wifiSetup();
 void    thingConnect();
 void    readSensor(void);
-float   getMoist();
+
 void    printData(void);
 
 void setup() {
@@ -54,8 +55,8 @@ void setup() {
 void loop() {
   thingConnect();
   readSensor();
-  printData();
   notifiaction();
+  printData();
 }
 
 void wifiSetup() {
@@ -66,12 +67,31 @@ void wifiSetup() {
     delay(100);
   }
   Serial.print("\r\nWiFi connected");
+  //ThingSpeak.begin(client);
   logoConsole();
 }
 
+void readSensor(void) {
+  temp 	= dht.readTemperature();
+  humi 	= dht.readHumidity();
+  
+}
+
+void notifiaction() {
+  int sensor = digitalRead(Sensor);
+  if (sensor == 1) {  
+      digitalWrite(Buzzer, LOW);
+      Serial.println("No fire detected\n");
+      fire = 0;
+  } else if (sensor == 0) {  
+      digitalWrite(Buzzer, HIGH);
+      Serial.println("Warning! A fire was detected\n");
+      fire = 1;
+    }
+}
 void thingConnect() {
   if (client.connect(server, 80)) {
-    String body = "field1=" + String(temp, 1) + "&field2=" + String(humi, 1) ;
+    String body = "field1=" + String(fire) + "&field2=" + String(temp, 1) + "&field3=" + String(humi,1) ;
     client.print("POST /update HTTP/1.1\n");
     client.print("Host: api.thingspeak.com\n");
     client.print("Connection: close\n");
@@ -86,25 +106,18 @@ void thingConnect() {
 }
 
 void printData(void) {
-  Serial.printf("Temp: %s°C - Hum: %s%\r\n", String(temp, 1).c_str(), String(humi, 1).c_str());
+  Serial.printf("Temp: %s°C - Humi: %s%\r - Fire: %d%\r\n", String(temp, 1).c_str(), String(humi, 1).c_str(), fire);
+  // ThingSpeak.setField(1,temp);
+  // ThingSpeak.setField(2,humi);
+  // ThingSpeak.setField(3,fire);
+  // int x = ThingSpeak.writeFields(channelID,writeAPIKey);
+  // if(x == 200){
+  //   Serial.println("Data pushed successfull");
+  // }else{
+  //   Serial.println("Push error" + String(x));
+  // }
 }
 
-void readSensor(void) {
-  temp 	= dht.readTemperature();
-  humi 	= dht.readHumidity();
-  
-}
-
-void notifiaction() {
-  int sensor = digitalRead(Sensor);
-  if (sensor == 1) {  
-      digitalWrite(Buzzer, LOW);
-      Serial.println("No fire detected\n");
-  } else if (sensor == 0) {  
-      digitalWrite(Buzzer, HIGH);
-      Serial.println("Warning! A fire was detected\n");
-    }
-}
 
 void logoConsole(void) {
   Serial.printf("Nhóm 24\n");

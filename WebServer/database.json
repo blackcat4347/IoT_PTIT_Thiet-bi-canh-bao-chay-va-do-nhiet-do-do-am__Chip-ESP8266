@@ -1,0 +1,1723 @@
+{
+  "tialua": [
+    {
+      "timestamp": 1703343657,
+      "created_at": "2023-12-23T22:00:57.000Z",
+      "tialua": 1
+    },
+    {
+      "timestamp": 1703343839,
+      "created_at": "2023-12-23T22:03:59.000Z",
+      "tialua": 1
+    },
+    {
+      "timestamp": 1703343854,
+      "created_at": "2023-12-23T22:04:14.000Z",
+      "tialua": 1
+    }
+  ],
+  "nhietdo": [
+    {
+      "timestamp": 1703343261,
+      "created_at": "2023-12-23T21:54:21.000Z",
+      "nhietdo": 0
+    },
+    {
+      "timestamp": 1703343277,
+      "created_at": "2023-12-23T21:54:37.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343292,
+      "created_at": "2023-12-23T21:54:52.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343307,
+      "created_at": "2023-12-23T21:55:07.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343322,
+      "created_at": "2023-12-23T21:55:22.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343337,
+      "created_at": "2023-12-23T21:55:37.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343352,
+      "created_at": "2023-12-23T21:55:52.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343368,
+      "created_at": "2023-12-23T21:56:08.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343383,
+      "created_at": "2023-12-23T21:56:23.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343398,
+      "created_at": "2023-12-23T21:56:38.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343413,
+      "created_at": "2023-12-23T21:56:53.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343428,
+      "created_at": "2023-12-23T21:57:08.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343443,
+      "created_at": "2023-12-23T21:57:23.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343459,
+      "created_at": "2023-12-23T21:57:39.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343474,
+      "created_at": "2023-12-23T21:57:54.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343489,
+      "created_at": "2023-12-23T21:58:09.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343504,
+      "created_at": "2023-12-23T21:58:24.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343519,
+      "created_at": "2023-12-23T21:58:39.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343535,
+      "created_at": "2023-12-23T21:58:55.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343550,
+      "created_at": "2023-12-23T21:59:10.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343565,
+      "created_at": "2023-12-23T21:59:25.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343581,
+      "created_at": "2023-12-23T21:59:41.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343596,
+      "created_at": "2023-12-23T21:59:56.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343611,
+      "created_at": "2023-12-23T22:00:11.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343626,
+      "created_at": "2023-12-23T22:00:26.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343641,
+      "created_at": "2023-12-23T22:00:41.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703343657,
+      "created_at": "2023-12-23T22:00:57.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343672,
+      "created_at": "2023-12-23T22:01:12.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343687,
+      "created_at": "2023-12-23T22:01:27.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343702,
+      "created_at": "2023-12-23T22:01:42.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343717,
+      "created_at": "2023-12-23T22:01:57.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343732,
+      "created_at": "2023-12-23T22:02:12.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343748,
+      "created_at": "2023-12-23T22:02:28.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343763,
+      "created_at": "2023-12-23T22:02:43.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343778,
+      "created_at": "2023-12-23T22:02:58.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343793,
+      "created_at": "2023-12-23T22:03:13.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343809,
+      "created_at": "2023-12-23T22:03:29.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343824,
+      "created_at": "2023-12-23T22:03:44.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343839,
+      "created_at": "2023-12-23T22:03:59.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343854,
+      "created_at": "2023-12-23T22:04:14.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343870,
+      "created_at": "2023-12-23T22:04:30.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343885,
+      "created_at": "2023-12-23T22:04:45.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343900,
+      "created_at": "2023-12-23T22:05:00.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343916,
+      "created_at": "2023-12-23T22:05:16.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343931,
+      "created_at": "2023-12-23T22:05:31.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343947,
+      "created_at": "2023-12-23T22:05:47.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343962,
+      "created_at": "2023-12-23T22:06:02.000Z",
+      "nhietdo": 19.4
+    },
+    {
+      "timestamp": 1703343977,
+      "created_at": "2023-12-23T22:06:17.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703343993,
+      "created_at": "2023-12-23T22:06:33.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344008,
+      "created_at": "2023-12-23T22:06:48.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344023,
+      "created_at": "2023-12-23T22:07:03.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344039,
+      "created_at": "2023-12-23T22:07:19.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344054,
+      "created_at": "2023-12-23T22:07:34.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344069,
+      "created_at": "2023-12-23T22:07:49.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344084,
+      "created_at": "2023-12-23T22:08:04.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344099,
+      "created_at": "2023-12-23T22:08:19.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344115,
+      "created_at": "2023-12-23T22:08:35.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344130,
+      "created_at": "2023-12-23T22:08:50.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344145,
+      "created_at": "2023-12-23T22:09:05.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344161,
+      "created_at": "2023-12-23T22:09:21.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344176,
+      "created_at": "2023-12-23T22:09:36.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344191,
+      "created_at": "2023-12-23T22:09:51.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344207,
+      "created_at": "2023-12-23T22:10:07.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344222,
+      "created_at": "2023-12-23T22:10:22.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344237,
+      "created_at": "2023-12-23T22:10:37.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344252,
+      "created_at": "2023-12-23T22:10:52.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344268,
+      "created_at": "2023-12-23T22:11:08.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344283,
+      "created_at": "2023-12-23T22:11:23.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344298,
+      "created_at": "2023-12-23T22:11:38.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344313,
+      "created_at": "2023-12-23T22:11:53.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344329,
+      "created_at": "2023-12-23T22:12:09.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344344,
+      "created_at": "2023-12-23T22:12:24.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344359,
+      "created_at": "2023-12-23T22:12:39.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344374,
+      "created_at": "2023-12-23T22:12:54.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344390,
+      "created_at": "2023-12-23T22:13:10.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344405,
+      "created_at": "2023-12-23T22:13:25.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344420,
+      "created_at": "2023-12-23T22:13:40.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344435,
+      "created_at": "2023-12-23T22:13:55.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344450,
+      "created_at": "2023-12-23T22:14:10.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344466,
+      "created_at": "2023-12-23T22:14:26.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344481,
+      "created_at": "2023-12-23T22:14:41.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344496,
+      "created_at": "2023-12-23T22:14:56.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344512,
+      "created_at": "2023-12-23T22:15:12.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344527,
+      "created_at": "2023-12-23T22:15:27.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344542,
+      "created_at": "2023-12-23T22:15:42.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344557,
+      "created_at": "2023-12-23T22:15:57.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344572,
+      "created_at": "2023-12-23T22:16:12.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344588,
+      "created_at": "2023-12-23T22:16:28.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344603,
+      "created_at": "2023-12-23T22:16:43.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344618,
+      "created_at": "2023-12-23T22:16:58.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344633,
+      "created_at": "2023-12-23T22:17:13.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344649,
+      "created_at": "2023-12-23T22:17:29.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344664,
+      "created_at": "2023-12-23T22:17:44.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344679,
+      "created_at": "2023-12-23T22:17:59.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344695,
+      "created_at": "2023-12-23T22:18:15.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344710,
+      "created_at": "2023-12-23T22:18:30.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344725,
+      "created_at": "2023-12-23T22:18:45.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344740,
+      "created_at": "2023-12-23T22:19:00.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344755,
+      "created_at": "2023-12-23T22:19:15.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344770,
+      "created_at": "2023-12-23T22:19:30.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344786,
+      "created_at": "2023-12-23T22:19:46.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344801,
+      "created_at": "2023-12-23T22:20:01.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344816,
+      "created_at": "2023-12-23T22:20:16.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344831,
+      "created_at": "2023-12-23T22:20:31.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344846,
+      "created_at": "2023-12-23T22:20:46.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344861,
+      "created_at": "2023-12-23T22:21:01.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344876,
+      "created_at": "2023-12-23T22:21:16.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344892,
+      "created_at": "2023-12-23T22:21:32.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344907,
+      "created_at": "2023-12-23T22:21:47.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344923,
+      "created_at": "2023-12-23T22:22:03.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344938,
+      "created_at": "2023-12-23T22:22:18.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344953,
+      "created_at": "2023-12-23T22:22:33.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344968,
+      "created_at": "2023-12-23T22:22:48.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344984,
+      "created_at": "2023-12-23T22:23:04.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703344999,
+      "created_at": "2023-12-23T22:23:19.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345014,
+      "created_at": "2023-12-23T22:23:34.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345029,
+      "created_at": "2023-12-23T22:23:49.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345045,
+      "created_at": "2023-12-23T22:24:05.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345060,
+      "created_at": "2023-12-23T22:24:20.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345075,
+      "created_at": "2023-12-23T22:24:35.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345090,
+      "created_at": "2023-12-23T22:24:50.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345105,
+      "created_at": "2023-12-23T22:25:05.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345121,
+      "created_at": "2023-12-23T22:25:21.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345136,
+      "created_at": "2023-12-23T22:25:36.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345151,
+      "created_at": "2023-12-23T22:25:51.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345167,
+      "created_at": "2023-12-23T22:26:07.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345182,
+      "created_at": "2023-12-23T22:26:22.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345197,
+      "created_at": "2023-12-23T22:26:37.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345212,
+      "created_at": "2023-12-23T22:26:52.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345227,
+      "created_at": "2023-12-23T22:27:07.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345242,
+      "created_at": "2023-12-23T22:27:22.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345257,
+      "created_at": "2023-12-23T22:27:37.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345273,
+      "created_at": "2023-12-23T22:27:53.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345288,
+      "created_at": "2023-12-23T22:28:08.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345303,
+      "created_at": "2023-12-23T22:28:23.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345319,
+      "created_at": "2023-12-23T22:28:39.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345334,
+      "created_at": "2023-12-23T22:28:54.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345349,
+      "created_at": "2023-12-23T22:29:09.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345364,
+      "created_at": "2023-12-23T22:29:24.000Z",
+      "nhietdo": 19.2
+    },
+    {
+      "timestamp": 1703345380,
+      "created_at": "2023-12-23T22:29:40.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345395,
+      "created_at": "2023-12-23T22:29:55.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345411,
+      "created_at": "2023-12-23T22:30:11.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345426,
+      "created_at": "2023-12-23T22:30:26.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345441,
+      "created_at": "2023-12-23T22:30:41.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345457,
+      "created_at": "2023-12-23T22:30:57.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345472,
+      "created_at": "2023-12-23T22:31:12.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345487,
+      "created_at": "2023-12-23T22:31:27.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345502,
+      "created_at": "2023-12-23T22:31:42.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345518,
+      "created_at": "2023-12-23T22:31:58.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345533,
+      "created_at": "2023-12-23T22:32:13.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345548,
+      "created_at": "2023-12-23T22:32:28.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345563,
+      "created_at": "2023-12-23T22:32:43.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345578,
+      "created_at": "2023-12-23T22:32:58.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345594,
+      "created_at": "2023-12-23T22:33:14.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345609,
+      "created_at": "2023-12-23T22:33:29.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345624,
+      "created_at": "2023-12-23T22:33:44.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345639,
+      "created_at": "2023-12-23T22:33:59.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345654,
+      "created_at": "2023-12-23T22:34:14.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345670,
+      "created_at": "2023-12-23T22:34:30.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345685,
+      "created_at": "2023-12-23T22:34:45.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345700,
+      "created_at": "2023-12-23T22:35:00.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345716,
+      "created_at": "2023-12-23T22:35:16.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345731,
+      "created_at": "2023-12-23T22:35:31.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345746,
+      "created_at": "2023-12-23T22:35:46.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345761,
+      "created_at": "2023-12-23T22:36:01.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345777,
+      "created_at": "2023-12-23T22:36:17.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345792,
+      "created_at": "2023-12-23T22:36:32.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345807,
+      "created_at": "2023-12-23T22:36:47.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345822,
+      "created_at": "2023-12-23T22:37:02.000Z",
+      "nhietdo": 19.3
+    },
+    {
+      "timestamp": 1703345837,
+      "created_at": "2023-12-23T22:37:17.000Z",
+      "nhietdo": 19.3
+    }
+  ],
+  "doam": [
+    {
+      "timestamp": 1703343261,
+      "created_at": "2023-12-23T21:54:21.000Z",
+      "doam": 0
+    },
+    {
+      "timestamp": 1703343277,
+      "created_at": "2023-12-23T21:54:37.000Z",
+      "doam": 73
+    },
+    {
+      "timestamp": 1703343292,
+      "created_at": "2023-12-23T21:54:52.000Z",
+      "doam": 73
+    },
+    {
+      "timestamp": 1703343307,
+      "created_at": "2023-12-23T21:55:07.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343322,
+      "created_at": "2023-12-23T21:55:22.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343337,
+      "created_at": "2023-12-23T21:55:37.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343352,
+      "created_at": "2023-12-23T21:55:52.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343368,
+      "created_at": "2023-12-23T21:56:08.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343383,
+      "created_at": "2023-12-23T21:56:23.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343398,
+      "created_at": "2023-12-23T21:56:38.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343413,
+      "created_at": "2023-12-23T21:56:53.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343428,
+      "created_at": "2023-12-23T21:57:08.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343443,
+      "created_at": "2023-12-23T21:57:23.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343459,
+      "created_at": "2023-12-23T21:57:39.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343474,
+      "created_at": "2023-12-23T21:57:54.000Z",
+      "doam": 73
+    },
+    {
+      "timestamp": 1703343489,
+      "created_at": "2023-12-23T21:58:09.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343504,
+      "created_at": "2023-12-23T21:58:24.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343519,
+      "created_at": "2023-12-23T21:58:39.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343535,
+      "created_at": "2023-12-23T21:58:55.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343550,
+      "created_at": "2023-12-23T21:59:10.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343565,
+      "created_at": "2023-12-23T21:59:25.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343581,
+      "created_at": "2023-12-23T21:59:41.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343596,
+      "created_at": "2023-12-23T21:59:56.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343611,
+      "created_at": "2023-12-23T22:00:11.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343626,
+      "created_at": "2023-12-23T22:00:26.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343641,
+      "created_at": "2023-12-23T22:00:41.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343657,
+      "created_at": "2023-12-23T22:00:57.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343672,
+      "created_at": "2023-12-23T22:01:12.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343687,
+      "created_at": "2023-12-23T22:01:27.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343702,
+      "created_at": "2023-12-23T22:01:42.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343717,
+      "created_at": "2023-12-23T22:01:57.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343732,
+      "created_at": "2023-12-23T22:02:12.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343748,
+      "created_at": "2023-12-23T22:02:28.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343763,
+      "created_at": "2023-12-23T22:02:43.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343778,
+      "created_at": "2023-12-23T22:02:58.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343793,
+      "created_at": "2023-12-23T22:03:13.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343809,
+      "created_at": "2023-12-23T22:03:29.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343824,
+      "created_at": "2023-12-23T22:03:44.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343839,
+      "created_at": "2023-12-23T22:03:59.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343854,
+      "created_at": "2023-12-23T22:04:14.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343870,
+      "created_at": "2023-12-23T22:04:30.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343885,
+      "created_at": "2023-12-23T22:04:45.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703343900,
+      "created_at": "2023-12-23T22:05:00.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343916,
+      "created_at": "2023-12-23T22:05:16.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343931,
+      "created_at": "2023-12-23T22:05:31.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343947,
+      "created_at": "2023-12-23T22:05:47.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343962,
+      "created_at": "2023-12-23T22:06:02.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343977,
+      "created_at": "2023-12-23T22:06:17.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703343993,
+      "created_at": "2023-12-23T22:06:33.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344008,
+      "created_at": "2023-12-23T22:06:48.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344023,
+      "created_at": "2023-12-23T22:07:03.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344039,
+      "created_at": "2023-12-23T22:07:19.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344054,
+      "created_at": "2023-12-23T22:07:34.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344069,
+      "created_at": "2023-12-23T22:07:49.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344084,
+      "created_at": "2023-12-23T22:08:04.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344099,
+      "created_at": "2023-12-23T22:08:19.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344115,
+      "created_at": "2023-12-23T22:08:35.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344130,
+      "created_at": "2023-12-23T22:08:50.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344145,
+      "created_at": "2023-12-23T22:09:05.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344161,
+      "created_at": "2023-12-23T22:09:21.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344176,
+      "created_at": "2023-12-23T22:09:36.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344191,
+      "created_at": "2023-12-23T22:09:51.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344207,
+      "created_at": "2023-12-23T22:10:07.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344222,
+      "created_at": "2023-12-23T22:10:22.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344237,
+      "created_at": "2023-12-23T22:10:37.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344252,
+      "created_at": "2023-12-23T22:10:52.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344268,
+      "created_at": "2023-12-23T22:11:08.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344283,
+      "created_at": "2023-12-23T22:11:23.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344298,
+      "created_at": "2023-12-23T22:11:38.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344313,
+      "created_at": "2023-12-23T22:11:53.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344329,
+      "created_at": "2023-12-23T22:12:09.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344344,
+      "created_at": "2023-12-23T22:12:24.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344359,
+      "created_at": "2023-12-23T22:12:39.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344374,
+      "created_at": "2023-12-23T22:12:54.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344390,
+      "created_at": "2023-12-23T22:13:10.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344405,
+      "created_at": "2023-12-23T22:13:25.000Z",
+      "doam": 72
+    },
+    {
+      "timestamp": 1703344420,
+      "created_at": "2023-12-23T22:13:40.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344435,
+      "created_at": "2023-12-23T22:13:55.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344450,
+      "created_at": "2023-12-23T22:14:10.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344466,
+      "created_at": "2023-12-23T22:14:26.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344481,
+      "created_at": "2023-12-23T22:14:41.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344496,
+      "created_at": "2023-12-23T22:14:56.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344512,
+      "created_at": "2023-12-23T22:15:12.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344527,
+      "created_at": "2023-12-23T22:15:27.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344542,
+      "created_at": "2023-12-23T22:15:42.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344557,
+      "created_at": "2023-12-23T22:15:57.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344572,
+      "created_at": "2023-12-23T22:16:12.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344588,
+      "created_at": "2023-12-23T22:16:28.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344603,
+      "created_at": "2023-12-23T22:16:43.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344618,
+      "created_at": "2023-12-23T22:16:58.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344633,
+      "created_at": "2023-12-23T22:17:13.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344649,
+      "created_at": "2023-12-23T22:17:29.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344664,
+      "created_at": "2023-12-23T22:17:44.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344679,
+      "created_at": "2023-12-23T22:17:59.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344695,
+      "created_at": "2023-12-23T22:18:15.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344710,
+      "created_at": "2023-12-23T22:18:30.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344725,
+      "created_at": "2023-12-23T22:18:45.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344740,
+      "created_at": "2023-12-23T22:19:00.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344755,
+      "created_at": "2023-12-23T22:19:15.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344770,
+      "created_at": "2023-12-23T22:19:30.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344786,
+      "created_at": "2023-12-23T22:19:46.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344801,
+      "created_at": "2023-12-23T22:20:01.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344816,
+      "created_at": "2023-12-23T22:20:16.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344831,
+      "created_at": "2023-12-23T22:20:31.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344846,
+      "created_at": "2023-12-23T22:20:46.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344861,
+      "created_at": "2023-12-23T22:21:01.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344876,
+      "created_at": "2023-12-23T22:21:16.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344892,
+      "created_at": "2023-12-23T22:21:32.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344907,
+      "created_at": "2023-12-23T22:21:47.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344923,
+      "created_at": "2023-12-23T22:22:03.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344938,
+      "created_at": "2023-12-23T22:22:18.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344953,
+      "created_at": "2023-12-23T22:22:33.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344968,
+      "created_at": "2023-12-23T22:22:48.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344984,
+      "created_at": "2023-12-23T22:23:04.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703344999,
+      "created_at": "2023-12-23T22:23:19.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345014,
+      "created_at": "2023-12-23T22:23:34.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345029,
+      "created_at": "2023-12-23T22:23:49.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345045,
+      "created_at": "2023-12-23T22:24:05.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345060,
+      "created_at": "2023-12-23T22:24:20.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345075,
+      "created_at": "2023-12-23T22:24:35.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345090,
+      "created_at": "2023-12-23T22:24:50.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345105,
+      "created_at": "2023-12-23T22:25:05.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345121,
+      "created_at": "2023-12-23T22:25:21.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345136,
+      "created_at": "2023-12-23T22:25:36.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345151,
+      "created_at": "2023-12-23T22:25:51.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345167,
+      "created_at": "2023-12-23T22:26:07.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345182,
+      "created_at": "2023-12-23T22:26:22.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345197,
+      "created_at": "2023-12-23T22:26:37.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345212,
+      "created_at": "2023-12-23T22:26:52.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345227,
+      "created_at": "2023-12-23T22:27:07.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345242,
+      "created_at": "2023-12-23T22:27:22.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345257,
+      "created_at": "2023-12-23T22:27:37.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345273,
+      "created_at": "2023-12-23T22:27:53.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345288,
+      "created_at": "2023-12-23T22:28:08.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345303,
+      "created_at": "2023-12-23T22:28:23.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345319,
+      "created_at": "2023-12-23T22:28:39.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345334,
+      "created_at": "2023-12-23T22:28:54.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345349,
+      "created_at": "2023-12-23T22:29:09.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345364,
+      "created_at": "2023-12-23T22:29:24.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345380,
+      "created_at": "2023-12-23T22:29:40.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345395,
+      "created_at": "2023-12-23T22:29:55.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345411,
+      "created_at": "2023-12-23T22:30:11.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345426,
+      "created_at": "2023-12-23T22:30:26.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345441,
+      "created_at": "2023-12-23T22:30:41.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345457,
+      "created_at": "2023-12-23T22:30:57.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345472,
+      "created_at": "2023-12-23T22:31:12.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345487,
+      "created_at": "2023-12-23T22:31:27.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345502,
+      "created_at": "2023-12-23T22:31:42.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345518,
+      "created_at": "2023-12-23T22:31:58.000Z",
+      "doam": 71
+    },
+    {
+      "timestamp": 1703345533,
+      "created_at": "2023-12-23T22:32:13.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345548,
+      "created_at": "2023-12-23T22:32:28.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345563,
+      "created_at": "2023-12-23T22:32:43.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345578,
+      "created_at": "2023-12-23T22:32:58.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345594,
+      "created_at": "2023-12-23T22:33:14.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345609,
+      "created_at": "2023-12-23T22:33:29.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345624,
+      "created_at": "2023-12-23T22:33:44.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345639,
+      "created_at": "2023-12-23T22:33:59.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345654,
+      "created_at": "2023-12-23T22:34:14.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345670,
+      "created_at": "2023-12-23T22:34:30.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345685,
+      "created_at": "2023-12-23T22:34:45.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345700,
+      "created_at": "2023-12-23T22:35:00.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345716,
+      "created_at": "2023-12-23T22:35:16.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345731,
+      "created_at": "2023-12-23T22:35:31.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345746,
+      "created_at": "2023-12-23T22:35:46.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345761,
+      "created_at": "2023-12-23T22:36:01.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345777,
+      "created_at": "2023-12-23T22:36:17.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345792,
+      "created_at": "2023-12-23T22:36:32.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345807,
+      "created_at": "2023-12-23T22:36:47.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345822,
+      "created_at": "2023-12-23T22:37:02.000Z",
+      "doam": 70
+    },
+    {
+      "timestamp": 1703345837,
+      "created_at": "2023-12-23T22:37:17.000Z",
+      "doam": 70
+    }
+  ]
+}
